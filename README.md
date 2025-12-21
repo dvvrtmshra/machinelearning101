@@ -16,3 +16,9 @@ Just fundamentals → practice → consistency.
 
 Each day lives in its own folder.
 
+---
+
+## 📄 License
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute it.
+
+
